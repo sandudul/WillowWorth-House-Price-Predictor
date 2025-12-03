@@ -1,4 +1,6 @@
-streamlit
-pandas
-numpy
-scikit-learn
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+setuptools>=65.0.0
+blinker>=1.6.0
