@@ -166,7 +166,7 @@ This project demonstrates:
 
 ## 📧 Contact
 
-**Sandu** - [@sandudul](https://github.com/sandudul)
+**sandu** - [@sandudul](https://github.com/sandudul)
 
 Project Link: [https://github.com/sandudul/House-Price-Predictor](https://github.com/sandudul/House-Price-Predictor)
 
